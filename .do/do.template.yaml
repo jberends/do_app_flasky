@@ -1,7 +1,7 @@
 spec:
   name: do_app_flasky
   services:
-    - name: do_app_flasky
+    - name: web
       git:
         branch: main
         repo_clone_url: https://github.com/jberends/do_app_flasky.git
