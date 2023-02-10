@@ -1,10 +1,11 @@
 spec:
-  name: do-app-flasky
+  name: do-app-flasky-docker
   services:
     - name: web
       git:
-        branch: main
+        branch: docker-based-app
         repo_clone_url: https://github.com/jberends/do_app_flasky.git
+      dockerfile_path: Dockerfile
       envs:
         - key: PORT
           value: "8080"
