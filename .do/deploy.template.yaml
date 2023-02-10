@@ -7,7 +7,7 @@ spec:
         repo_clone_url: https://github.com/jberends/do_app_flasky.git
       envs:
         - key: PORT
-          value: 8080
+          value: "8080"
         - key: SOME_SECRET
           type: SECRET
           value: "SOME_SECRET"
