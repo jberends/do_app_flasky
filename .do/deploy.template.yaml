@@ -1,5 +1,5 @@
 spec:
-  name: do_app_flasky
+  name: do-app-flasky
   services:
     - name: web
       git:
