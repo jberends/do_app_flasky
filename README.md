@@ -9,7 +9,7 @@ following Digital Ocean guide:
 
 To test this repo and deploy it to digitalocean app platform use the button here.
 
-[![Deploy to Digital Ocean App Platform](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jberends/do_app_flasky/tree/main&refcode=69790906da50)
+[![Deploy to Digital Ocean App Platform](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/jberends/do_app_flasky/tree/docker-based-app&refcode=69790906da50)
 
 
 ## Test after successfull deployment
